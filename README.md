@@ -1,4 +1,4 @@
-### Olá, eu sou Gabriel Lopes de Sousa 👋
+### Olá, eu sou Gabriel Lopes 👋
 **Estudante de Engenharia de Software | Estácio Sá**
 
 Sou estudante de Engenharia de Software e atuo profissionalmente com suporte técnico e automação de processos em TI. Tenho experiência prática com Java (Foco em Java), desenvolvidos através de cursos aplicados e de um projeto real de automação usado no meu dia a dia de trabalho.
