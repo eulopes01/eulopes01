@@ -26,5 +26,5 @@ Sou estudante de Engenharia de Software e atuo profissionalmente com suporte té
 - [Spring Boot Expert](https://github.com/SEU-USUARIO/nome-do-repo) — Projetos com JPA, REST, JWT, OAuth2, Docker e AWS.
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark" alt="GitHub stats" />
+<img src="https://github.com/eulopes01" alt="GitHub stats" />
 </p>
