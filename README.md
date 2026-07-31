@@ -21,9 +21,9 @@ Sou estudante de Engenharia de Software e atuo profissionalmente com suporte té
 
 ### 📌 Principais Projetos
 
-- [Automação de Notas Fiscais](https://github.com/SEU-USUARIO/nome-do-repo) — Software em Python para automatizar o processo de organização e controle de Notas Fiscais, reduzindo retrabalho manual.
+- [Automação de Notas Fiscais](https://github.com/eulopes01/Software_NF/tree/main/Projec) — Software em Python para automatizar o processo de organização e controle de Notas Fiscais, reduzindo retrabalho manual.
 - [Java OOP Studies](https://github.com/eulopes01/Ex_galopes/tree/main/Curso_JAVA_Nelio) — Exercícios e projetos do curso Java Completo (OOP).
-- [Spring Boot Expert](https://github.com/eulopes01/Software_NF/tree/main/Projec) — Projetos com JPA, REST, JWT, OAuth2, Docker e AWS.
+
 
 <p align="left">
 <img src="https://github.com/eulopes01" alt="GitHub stats" />
