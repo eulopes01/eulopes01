@@ -9,7 +9,7 @@ Sou estudante de Engenharia de Software e atuo profissionalmente com suporte té
 
 ### 🛠️ Principais Ferramentas
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,linux" alt="Java, Spring Boot, Python, MySQL, Git, Linux" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,linux" alt="Java, Spring Boot, Python, MySQL, Git, Linux" />
 </p>
 
 ### 🌐 Onde podem me encontrar
